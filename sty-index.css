@@ -1,0 +1,19 @@
+.navbar {
+    margin-bottom: 0;
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .navbar-brand img {
+    width: 80px; 
+    height: auto; 
+    margin-bottom: -20px; 
+}
+
+  .navbar-text {
+    font-size: 35px; 
+}
+

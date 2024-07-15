@@ -1,0 +1,37 @@
+.btn{
+background-color: #a7608c; color: #fff; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;
+}
+.btn:hover {
+    background-color: #ffaf00; 
+}
+.container {
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+
+.text-box {
+flex: 0 0 50%;
+padding: 20px;
+box-sizing: border-box;
+height: 300px; 
+}
+
+.image {
+flex: 0 0 50%;
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+height: 300px;
+width: auto;
+}
+
+.big-title {
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.paragraph {
+margin-bottom: 10px;
+}
